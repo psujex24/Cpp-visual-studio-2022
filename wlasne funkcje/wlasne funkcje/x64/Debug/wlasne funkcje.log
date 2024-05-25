@@ -1,0 +1,4 @@
+﻿  wlasne funkcje.cpp
+D:\C++ visual studio 2022\Cpp-visual-studio-2022\wlasne funkcje\wlasne funkcje\wlasne funkcje.cpp(9,11): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+D:\C++ visual studio 2022\Cpp-visual-studio-2022\wlasne funkcje\wlasne funkcje\wlasne funkcje.cpp(13,11): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  wlasne funkcje.vcxproj -> D:\C++ visual studio 2022\Cpp-visual-studio-2022\wlasne funkcje\x64\Debug\wlasne funkcje.exe

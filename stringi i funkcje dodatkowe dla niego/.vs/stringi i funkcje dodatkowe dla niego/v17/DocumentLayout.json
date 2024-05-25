@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B visual studio 2022\\Cpp-visual-studio-2022\\stringi i funkcje dodatkowe dla niego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8706F663-F715-4536-9E01-4E617E609BF3}|stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.vcxproj|D:\\C\u002B\u002B visual studio 2022\\Cpp-visual-studio-2022\\stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8706F663-F715-4536-9E01-4E617E609BF3}|stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.vcxproj|solutionrelative:stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringi i funkcje dodatkowe dla niego.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B visual studio 2022\\Cpp-visual-studio-2022\\stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.cpp",
+              "RelativeDocumentMoniker": "stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.cpp",
+              "ToolTip": "D:\\C\u002B\u002B visual studio 2022\\Cpp-visual-studio-2022\\stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.cpp",
+              "RelativeToolTip": "stringi i funkcje dodatkowe dla niego\\stringi i funkcje dodatkowe dla niego.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T19:28:27.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

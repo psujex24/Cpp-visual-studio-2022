@@ -1,0 +1,3 @@
+﻿  stringi i tablice char.cpp
+D:\C++ visual studio 2022\Cpp-visual-studio-2022\stringi i tablice char\stringi i tablice char\stringi i tablice char.cpp(11,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  stringi i tablice char.vcxproj -> D:\C++ visual studio 2022\Cpp-visual-studio-2022\stringi i tablice char\x64\Debug\stringi i tablice char.exe
